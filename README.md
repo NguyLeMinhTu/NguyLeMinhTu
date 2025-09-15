@@ -1,4 +1,4 @@
-<h1 align="center">Xin chào 👋, tôi là Nguyễn Lê Minh Tú</h1>
+<h2 align="center">Xin chào 👋, tôi là Nguyễn Lê Minh Tú</h2>
 <h3 align="center">Một lập trình viên fullstack đầy nhiệt huyết đến từ Việt Nam</h3>
 
 - 🔭 Hiện tại tôi đang làm việc trên Github [MinhTu-nl](https://github.com/MinhTu-nl)
