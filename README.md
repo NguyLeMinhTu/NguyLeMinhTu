@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Hình ảnh 3D động nổi bật -->
-  <img src="https://raw.githubusercontent.com/NguyLeMinhTu/NguyLeMinhTu/main/dev.gif" width="20%" alt="3D Developer Animation" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);"/>
+  <img src="https://raw.githubusercontent.com/NguyLeMinhTu/NguyLeMinhTu/main/dev2.gif" width="20%" alt="3D Developer Animation" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);"/>
 </p>
 
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4A90E2;">
