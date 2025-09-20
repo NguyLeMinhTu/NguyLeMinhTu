@@ -1,25 +1,9 @@
-<p align="center">
-  <!-- Hình ảnh 3D động nổi bật -->
-  <img src="https://raw.githubusercontent.com/NguyLeMinhTu/NguyLeMinhTu/main/dev2.gif" width="20%" alt="3D Developer Animation" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);"/>
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4A90E2;">
-  Xin chào 👋, tôi là Nguyễn Lê Minh Tú
-</h1>
-<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555;">
-  Một lập trình viên Fullstack đầy nhiệt huyết đến từ Việt Nam 🇻🇳
+<h3 align="left">
+Xin chào 👋, tôi là Nguyễn Lê Minh Tú
 </h3>
 
-<p align="center">
-  <a href="https://github.com/MinhTu-nl?tab=repositories" target="_blank" style="margin: 0 10px;">
-    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-My%20Repos-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:ngleminhtu@gmail.com" target="_blank" style="margin: 0 10px;">
-    <img alt="Email" title="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ### 👨‍💻 Về tôi
 
@@ -28,7 +12,22 @@
 > 💬 Hãy hỏi tôi về bất cứ điều gì liên quan đến **React, Node, Python, C#**. Tôi rất sẵn lòng chia sẻ.  
 > ⚡ Sự thật thú vị: **Tôi ra lệnh, AI viết mã nguồn.**
 
----
+<p align="left">
+  <p href="https://github.com/MinhTu-nl?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-My%20Repos-24292e?style=for-the-badge&logo=github&logoColor=white"/>
+  </p>
+  <p href="mailto:ngleminhtu@gmail.com" target="_blank">
+    <img alt="Email" title="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </p>
+</p>
+
+
+
+
+
+
+
+
 
 ### 🚀 Ngôn ngữ & Công cụ
 
@@ -114,8 +113,8 @@
 ### 📊 Thống kê Github
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NguyLeMinhTu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Github Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyLeMinhTu&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NguyLeMinhTu&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Github Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyLeMinhTu&layout=compact&langs_count=10&theme=transparent" alt="Top Languages"/>
 </p>
 
 ---
