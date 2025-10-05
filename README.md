@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/NguyLeMinhTu/NguyLeMinhTu/blob/main/dev.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h3 align="left">
 Xin chào 👋, tôi là Nguyễn Lê Minh Tú
